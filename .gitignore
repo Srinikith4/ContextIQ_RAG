@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+.env
+NOTES.md
+old_version/
+scratch_*.py
+.pytest_cache/
