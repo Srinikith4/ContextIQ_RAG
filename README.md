@@ -4,7 +4,7 @@
 
 ContextIQ is a retrieval-augmented generation (RAG) application built with FastAPI, PostgreSQL with pgvector, local embeddings and Google Gemini. It answers only from the document you choose, cites the page for every fact, and says so plainly when the answer is not in the document.
 
-**Live demo:** link coming soon (hosted on Render's free tier, so the first load may take a little while to wake up).
+**Live demo:** [https://contextiq-rag-cwr0.onrender.com](https://contextiq-rag-cwr0.onrender.com) (hosted on Render's free tier, so after a period of inactivity the first load may take up to a minute to wake up).
 
 ![ContextIQ answering a question about the RTI Act, with the source page shown beside the answer](docs/ask.png)
 
