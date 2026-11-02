@@ -1,0 +1,6 @@
+# Keep line endings consistent (LF) on every operating system
+* text=auto eol=lf
+
+# Never change the bytes of binary files
+*.pdf binary
+*.png binary

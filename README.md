@@ -220,8 +220,8 @@ Upload errors return clear messages: `400` for a file that is not a PDF or a fou
 ### Setup
 
 ```bash
-git clone https://github.com/Srinikith4/ai-chatbot-aws.git
-cd ai-chatbot-aws
+git clone https://github.com/Srinikith4/ContextIQ_RAG.git
+cd ContextIQ_RAG
 
 python -m venv venv
 # Windows
